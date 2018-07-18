@@ -24,6 +24,7 @@ namespace Drips
             String resultw = String.Format("This wastes {3} litres of water every week", n, hour,day,week);
             Console.WriteLine(resultw);
 
+
             string kea = Console.ReadLine();
         }
     }
